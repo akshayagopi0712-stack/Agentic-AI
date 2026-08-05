@@ -11,7 +11,12 @@ HTML = """
 <html>
 <head>
 <style>
-*{}
+*{
+margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
 body{}
 .container{}
 h2{}
