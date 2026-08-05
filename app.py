@@ -17,7 +17,14 @@ margin:0;
     box-sizing:border-box;
     font-family:Arial, sans-serif;
 }
-body{}
+body{
+background:#000;
+    color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
 .container{}
 h2{}
 button{}
